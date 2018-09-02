@@ -1,0 +1,38 @@
+.wpsearchtax-wrap {
+
+}
+.wpsearchtax-wrap .select2-container {
+    width: 100% !important;
+}
+.wpsearchtax-wrap .select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #0085ba;
+    border-color: #0073aa #006799 #006799;
+    box-shadow: 0 1px 0 #006799;
+    color: #fff;
+    padding: 5px;
+    font-size: 14px;
+}
+.wpsearchtax-wrap .select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    color: #fff;
+}
+.spc-input-title {
+    display: inline-block;
+    width: 60px;
+}
+.spc-checkbox {
+    margin: 0 5px;
+}
+.spc-url-container {
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+}
+.spc-url {
+    color: #333;
+}
+.spc-message {
+    text-align: center;
+    padding: 0 10px;
+    margin: 0;
+}
+
